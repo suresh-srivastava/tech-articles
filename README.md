@@ -7,6 +7,12 @@ Framework is a collection of generic functionality in form of code which uses sp
 [Want To Become Compiler Expert](http://coursegalaxy.com/compilers/learn-design.html)\
 Compilers are one of the most challenging and exciting work.
 
+[Design Patterns](http://coursegalaxy.com/design-patterns.html)\
+Design Patterns are time-tested solutions for commonly recurring problems in object oriented design.
+
+[AntiPatterns](http://coursegalaxy.com/antipatterns.html)\
+AntiPatterns are commonly occurring solutions to problems that create more problem than what they solve.
+
 [Writing a Python Library](http://coursegalaxy.com/python/writing-library.html)\
 Library is a collection of functionality in form of code which can be reused.
 
@@ -51,10 +57,4 @@ Promises in JavaScript allows execution of a block of code asynchronously and ha
 
 [Python C Extensions](http://coursegalaxy.com/python/c-extensions.html)\
 Python C Extensions provides the ability to use C code with Python.
-
-[Design Patterns](http://coursegalaxy.com/design-patterns.html)\
-Design Patterns are time-tested solutions for commonly recurring problems in object oriented design.
-
-[AntiPatterns](http://coursegalaxy.com/antipatterns.html)\
-AntiPatterns are commonly occurring solutions to problems that create more problem than what they solve.
 
