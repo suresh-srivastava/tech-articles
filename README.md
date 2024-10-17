@@ -1,6 +1,12 @@
 # Tech Articles on CourseGalaxy
 Article on different software technologies to become better software engineer
 
+[Data Structures and Algorithms (DSA) Roadmap](http://coursegalaxy.com/data-structures-algorithms/dsa-roadmap.html)\
+Data Structures and Algorithms (DSA) Roadmap to learn data structures and algorithms for job interview questions and to provide efficient solution to complex problems.
+
+[Data Structures and Algorithms (DSA) Interview Questions](http://coursegalaxy.com/data-structures-algorithms/dsa-interview-questions.html)\
+Data Structures and Algorithms (DSA) Interview Questions to learn data structures and algorithms for job interview questions and improve your problem solving skills to provide efficient solution to complex problems.
+
 [Building Framework In Python](http://coursegalaxy.com/python/framework.html)\
 Framework is a collection of generic functionality in form of code which uses specific part written by developer to provide the solution.
 
