@@ -7,6 +7,9 @@ Data Structures and Algorithms (DSA) Roadmap to learn data structures and algori
 [Data Structures and Algorithms (DSA) Interview Questions](http://coursegalaxy.com/data-structures-algorithms/dsa-interview-questions.html)\
 Data Structures and Algorithms (DSA) Interview Questions to learn data structures and algorithms for job interview questions and improve your problem solving skills to provide efficient solution to complex problems.
 
+[Data Structures and Algorithms (DSA) Topics](http://coursegalaxy.com/data-structures-algorithms/dsa-topics.html)\
+Data Structures and Algorithms (DSA) Topics to learn data structures and algorithms, implementation for engineering curriculum and job interview questions.
+
 [Building Framework In Python](http://coursegalaxy.com/python/framework.html)\
 Framework is a collection of generic functionality in form of code which uses specific part written by developer to provide the solution.
 
